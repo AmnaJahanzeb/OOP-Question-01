@@ -1,0 +1,11 @@
+Design an Animal class having all attributes and functions and create at least 5 objects and print them.
+ The class name should be Animal.
+-- ATTRIBUTES
+color: string
+ name: string
+ age: int
+ is_Wild: bool.
+--Method
+ eat: void ()
+ walk: void ()
+ run: void ()
